@@ -1,0 +1,16 @@
+If you're facing problems with installing " Face_Recognition " module these are the steps you need to follows:
+
+Step - 1: 
+	Go to Directory where " Face_Recognition " program is written.
+
+Step - 2:
+	Locate " dlib-19.22.99-cp310-cp310-win_amd64 " file.
+
+Step - 3:
+	Set python terminal to step-2 path.
+
+Step - 4:
+	type this command in terminal ' pip install " dlib-19.22.99-cp310-cp310-win_amd64.whl " '
+
+That's it that will install dlib file which is important dependancy for " Face_Recognition " module to install.
+Enjoy.
